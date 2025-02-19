@@ -1,4 +1,4 @@
-Printf.printf("Hi there");
+Printf.printf("hi");
 
 module Something = {
   [@react.component]
